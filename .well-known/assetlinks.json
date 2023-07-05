@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.DnCreate",
+      "sha256_cert_fingerprints": [
+        "6D:F3:AA:3A:A4:A5:7E:CA:4E:3F:B6:42:16:5A:8A:8C:A3:83:4B:F3:D4:29:37:B8:B3:90:F7:91:EF:CF:ED:75"
+      ]
+    }
+  }
+]
